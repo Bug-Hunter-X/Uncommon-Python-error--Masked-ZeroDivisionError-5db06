@@ -1,0 +1,1 @@
+This repository showcases a subtle Python error involving a ZeroDivisionError that's not immediately apparent due to the function's structure. The error is masked by an `if` statement, potentially leading to unexpected behavior. The solution highlights how to handle such scenarios effectively.
